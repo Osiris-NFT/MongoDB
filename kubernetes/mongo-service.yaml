@@ -4,7 +4,6 @@ metadata:
   labels:
     app: mongo
   name: mongo-svc
-  namespace: osiris
 spec:
   ports:
   - port: 27017
